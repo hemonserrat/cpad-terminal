@@ -22,7 +22,7 @@ All the drivers for the device are included fully.
 
 ## Electrical diagram:
 
-Schematics: 
+[Schematics:](../schematics/001-0430.pdf)
 
 
 ## Pre-requisites
@@ -32,17 +32,17 @@ Schematics:
 
 ## Drivers
 
-1-Wire:
-3-Wire: For handling Logical Cards
-AT45xxx:  Serial Flash 
-Gost: Block cipher - encrypt/decrypt
-LCD: 2x16 LCD driver
-RTC:  DS1302 Real time clock
-Keypad: Matrix keypad driver
-SLE4428:  Logical card driver
-SOUND: Piezo driver
-SPI: SPI bus driver
-JBUS: Serial communication driver
+* 1-Wire:
+* 3-Wire: For handling Logical Cards
+* AT45xxx:  Serial Flash 
+* Gost: Block cipher - encrypt/decrypt
+* LCD: 2x16 LCD driver
+* RTC:  DS1302 Real time clock
+* Keypad: Matrix keypad driver
+* SLE4428:  Logical card driver
+* SOUND: Piezo driver
+* SPI: SPI bus driver
+* JBUS: Serial communication driver
 
 Happy hacking!  
 
