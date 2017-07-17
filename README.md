@@ -22,7 +22,7 @@ All the drivers for the device are included fully.
 
 ## Electrical diagram:
 
-[Schematics:](../schematics/001-0430.pdf)
+[CPAD Schematics](/schematics/001-0430.pdf)
 
 
 ## Pre-requisites
