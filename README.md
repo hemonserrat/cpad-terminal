@@ -32,7 +32,7 @@ All the drivers for the device are included fully.
 
 ## Drivers
 
-* 1-Wire:
+* 1-Wire: Dallas Ibuttons
 * 3-Wire: For handling Logical Cards
 * AT45xxx:  Serial Flash 
 * Gost: Block cipher - encrypt/decrypt
